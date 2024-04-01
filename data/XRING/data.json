@@ -1,0 +1,16 @@
+{
+  "name": "Darwinia Network xRING",
+  "symbol": "xRING",
+  "decimals": 18,
+  "description": "",
+  "website": "https://darwinia.network",
+  "twitter": "@DarwiniaNetwork",
+  "tokens": {
+    "ethereum": {
+      "address": "0x81e32d4652Be82AE225DEdd1bD0bf3BCba8FEE07"
+    },
+    "base": {
+      "address": ""
+    }
+  }
+}
