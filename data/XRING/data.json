@@ -2,15 +2,15 @@
   "name": "Darwinia Network xRING",
   "symbol": "xRING",
   "decimals": 18,
-  "description": "",
+  "description": "Darwinia Network aspires to establish itself as a decentralized cross-chain platform for DApps. RING is the governance token of Darwinia Network and can also be used for gas fees on the Darwinia Chain. It also serving to fund the on-chain treasury and incentive validators, collators, stakers etc.",
   "website": "https://darwinia.network",
   "twitter": "@DarwiniaNetwork",
   "tokens": {
     "ethereum": {
       "address": "0x81e32d4652Be82AE225DEdd1bD0bf3BCba8FEE07"
     },
-    "base": {
-      "address": ""
+    "optimism": {
+      "address": "0x5ac3F9EDB4896DB1EdC0EF9d91421e740083e6e8"
     }
   }
 }
